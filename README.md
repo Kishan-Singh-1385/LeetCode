@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0169-majority-element) |
+| [0724-find-pivot-index](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
