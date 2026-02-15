@@ -8,6 +8,7 @@
 | [0169-majority-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0169-majority-element) |
 | [0724-find-pivot-index](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [3151-special-array-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3151-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
