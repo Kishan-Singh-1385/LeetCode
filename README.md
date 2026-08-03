@@ -35,14 +35,17 @@
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Prefix Sum
 |  |
@@ -65,4 +68,12 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0179-largest-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
