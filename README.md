@@ -12,6 +12,7 @@
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [3151-special-array-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3151-special-array-i) |
+| [3731-find-missing-elements](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0169-majority-element) |
 | [3714-longest-balanced-substring-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
+| [3731-find-missing-elements](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -28,6 +30,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0179-largest-number) |
+| [3731-find-missing-elements](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
