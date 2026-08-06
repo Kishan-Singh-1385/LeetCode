@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0002-add-two-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
