@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3731-find-missing-elements](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0179-largest-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 ## Sliding Window
 |  |
@@ -103,4 +106,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
