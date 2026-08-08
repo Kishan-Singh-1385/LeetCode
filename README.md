@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0169-majority-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0179-largest-number) |
 | [0724-find-pivot-index](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0724-find-pivot-index) |
@@ -110,4 +111,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
