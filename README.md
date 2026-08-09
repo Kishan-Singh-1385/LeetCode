@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0229-majority-element-ii) |
+| [0525-contiguous-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0867-transpose-matrix) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -27,6 +28,7 @@
 | [0169-majority-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0525-contiguous-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0525-contiguous-array) |
 | [2404-most-frequent-even-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [3714-longest-balanced-substring-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3731-find-missing-elements](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3731-find-missing-elements) |
@@ -66,6 +68,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
