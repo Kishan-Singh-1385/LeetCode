@@ -86,6 +86,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [3714-longest-balanced-substring-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 ## Sliding Window
 |  |
