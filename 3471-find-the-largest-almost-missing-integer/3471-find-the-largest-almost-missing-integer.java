@@ -1,24 +1,27 @@
 class Solution {
     public int largestInteger(int[] nums, int k) {
         int freq[] = new int[51];
-        int l = 0 , r = k - 1 ;
-
-        while(r < nums.length){
-            boolean seenInWin[] = new boolean[51];
-            for(int i = l ; i <= r ; i++){
-                if(!seenInWin[nums[i]]){
-                    seenInWin[nums[i]] = true ;
-                    freq[nums[i]]++ ;
-                }
+        for(int i = 0 ; i < nums.length ; i++){
+                freq[nums[i]]++ ;
             }
-            l++;
-            r++;
+
+        if(nums.length == k){
+           for(int i = 50 ; i >= 0 ; i--){
+                if(freq[i] > 0) return i ;
+            } 
         }
 
-        for(int i = 50 ; i >= 0 ; i--){
-            if(freq[i] == 1) return i ;
+        if(k == 1){
+           for(int i = 50 ; i >= 0 ; i--){
+                if(freq[i] == 1) return i ;
+            }
+            return -1 ; 
         }
 
-        return -1 ;
+        int max = -1 ;
+        if(freq[nums[0]] == 1) max = Math.max(max ,nums[0] );
+        if(freq[nums[nums.length - 1]] == 1) max = Math.max(max ,nums[nums.length - 1]);
+
+        return max ;
     }
 }
