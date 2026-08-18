@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0169-majority-element) |
@@ -44,6 +45,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -105,6 +107,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## DP on Trees
