@@ -30,6 +30,7 @@
 | [2404-most-frequent-even-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3151-special-array-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3151-special-array-i) |
+| [3187-peaks-in-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3187-peaks-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -180,4 +181,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0075-sort-colors) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3187-peaks-in-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3187-peaks-in-array) |
+## Segment Tree
+|  |
+| ------- |
+| [3187-peaks-in-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3187-peaks-in-array) |
 <!---LeetCode Topics End-->
