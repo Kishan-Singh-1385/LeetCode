@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0229-majority-element-ii) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0162-find-peak-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
