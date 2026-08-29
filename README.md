@@ -26,6 +26,7 @@
 | [0867-transpose-matrix](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0867-transpose-matrix) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/2404-most-frequent-even-element) |
@@ -158,6 +159,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0162-find-peak-element) |
+| [1901-find-a-peak-element-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0867-transpose-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
 |  |
 | ------- |
