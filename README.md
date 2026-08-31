@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0075-sort-colors) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0048-rotate-image) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
@@ -171,6 +173,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0867-transpose-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1901-find-a-peak-element-ii) |
