@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0229-majority-element-ii) |
@@ -169,6 +171,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0867-transpose-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
