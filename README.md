@@ -26,6 +26,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0867-transpose-matrix) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -50,6 +51,7 @@
 | [0229-majority-element-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2404-most-frequent-even-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
