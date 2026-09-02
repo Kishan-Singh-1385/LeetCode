@@ -45,6 +45,7 @@
 | [3187-peaks-in-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3187-peaks-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [0007-reverse-integer](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0048-rotate-image) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
