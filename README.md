@@ -30,6 +30,7 @@
 | [0283-move-zeroes](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0724-find-pivot-index) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0162-find-peak-element) |
+| [0493-reverse-pairs](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0493-reverse-pairs) |
 | [1901-find-a-peak-element-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -219,13 +222,27 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0493-reverse-pairs) |
 | [3187-peaks-in-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3187-peaks-in-array) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0493-reverse-pairs) |
 | [3187-peaks-in-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3187-peaks-in-array) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
