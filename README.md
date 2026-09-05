@@ -148,6 +148,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## DP on Trees
 |  |
@@ -163,6 +164,7 @@
 | [0002-add-two-numbers](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0048-rotate-image) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -258,4 +260,12 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
