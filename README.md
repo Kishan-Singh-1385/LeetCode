@@ -50,6 +50,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [3714-longest-balanced-substring-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
