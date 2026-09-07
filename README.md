@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0053-maximum-subarray) |
@@ -196,6 +197,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
