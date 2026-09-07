@@ -26,6 +26,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0179-largest-number) |
@@ -201,6 +202,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0493-reverse-pairs) |
