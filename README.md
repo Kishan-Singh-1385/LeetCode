@@ -175,6 +175,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
