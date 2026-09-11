@@ -51,6 +51,7 @@
 | [3151-special-array-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3151-special-array-i) |
 | [3187-peaks-in-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3187-peaks-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -71,6 +72,7 @@
 | [2404-most-frequent-even-element](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3714-longest-balanced-substring-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3731-find-missing-elements](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0002-add-two-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,6 +201,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
