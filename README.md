@@ -140,6 +140,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3714-longest-balanced-substring-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 ## Sliding Window
 |  |
@@ -152,6 +153,7 @@
 | [0179-largest-number](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | [0410-split-array-largest-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0940-distinct-subsequences-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## DP on Trees
 |  |
 | ------- |
@@ -202,6 +205,7 @@
 | [0088-merge-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Enumeration
 |  |
 | ------- |
