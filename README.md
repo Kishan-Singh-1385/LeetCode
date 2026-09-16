@@ -127,6 +127,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1991-find-the-middle-index-in-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [3714-longest-balanced-substring-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -168,6 +169,7 @@
 | [0410-split-array-largest-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0940-distinct-subsequences-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## DP on Trees
 |  |
@@ -184,6 +186,7 @@
 | [0007-reverse-integer](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0048-rotate-image) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -299,4 +302,8 @@
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
