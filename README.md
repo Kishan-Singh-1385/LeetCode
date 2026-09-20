@@ -143,6 +143,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 ## Sliding Window
 |  |
@@ -253,6 +254,7 @@
 | [0054-spiral-matrix](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
