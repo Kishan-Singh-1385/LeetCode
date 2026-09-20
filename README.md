@@ -44,6 +44,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1539-kth-missing-positive-number](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -232,6 +233,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Kishan-Singh-1385/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
